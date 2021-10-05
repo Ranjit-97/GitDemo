@@ -2,6 +2,9 @@ print("Hello")
 print("welcome")
 print("git")
 
+print("git2")
+print("git3")
+print("git4")
 
 # this first prog
 
