@@ -1,4 +1,7 @@
 print("Hello")
+print("welcome")
+print("git")
+
 
 # this first prog
 
